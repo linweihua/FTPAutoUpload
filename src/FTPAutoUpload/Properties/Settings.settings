@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="FTPAutoUpload.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="FtpIp" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">172.16.64.15</Value>
+    </Setting>
+    <Setting Name="FtpPort" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">8888</Value>
+    </Setting>
+    <Setting Name="FtpUserName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">shida</Value>
+    </Setting>
+    <Setting Name="FtpPassword" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">shida</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

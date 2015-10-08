@@ -1,0 +1,12 @@
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\FTPAutoUpload\FTPAutoUpload\bin\Debug\7z.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\FTPAutoUpload\FTPAutoUpload\bin\Debug\7z64.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\FTPAutoUpload\FTPAutoUpload\bin\Debug\FTPAutoUpload.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\FTPAutoUpload\FTPAutoUpload\bin\Debug\FTPAutoUpload.exe
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\FTPAutoUpload\FTPAutoUpload\bin\Debug\FTPAutoUpload.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\FTPAutoUpload\FTPAutoUpload\bin\Debug\SevenZipSharp.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\FTPAutoUpload\FTPAutoUpload\obj\Debug\FTPAutoUpload.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\FTPAutoUpload\FTPAutoUpload\obj\Debug\FTPAutoUpload.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\FTPAutoUpload\FTPAutoUpload\obj\Debug\FTPAutoUpload.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\FTPAutoUpload\FTPAutoUpload\obj\Debug\FTPAutoUpload.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\FTPAutoUpload\FTPAutoUpload\obj\Debug\FTPAutoUpload.exe
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\FTPAutoUpload\FTPAutoUpload\obj\Debug\FTPAutoUpload.pdb
